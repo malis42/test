@@ -1,0 +1,13 @@
+{
+  "name": "redoc-reef-example",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Redoc+Reef",
+  "scripts": {
+    "start": "redoc-reef develop"
+  },
+  "dependencies": {
+    "@redocly/redoc-reef": "0.69.0",
+    "@redocly/portal": "1.0.0"
+  }
+}
